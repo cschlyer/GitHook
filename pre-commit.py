@@ -2,8 +2,7 @@
 
 # import subprocess
 
-# get the last commit SHA and print it after humanizing it
-# https://github.com/zacharyvoase/humanhash
+# this is just a test for now... 
 print ('testing')
 
 # some commit

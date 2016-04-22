@@ -10,3 +10,4 @@ print humanhash.humanize(
         ['git','rev-parse','HEAD']))
 
 # some commit
+#some other commit
